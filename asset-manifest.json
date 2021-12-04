@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactjs-app/static/css/main.4776fbb0.chunk.css",
+    "main.js": "/reactjs-app/static/js/main.b0bb847e.chunk.js",
+    "main.js.map": "/reactjs-app/static/js/main.b0bb847e.chunk.js.map",
+    "runtime-main.js": "/reactjs-app/static/js/runtime-main.7a2ea236.js",
+    "runtime-main.js.map": "/reactjs-app/static/js/runtime-main.7a2ea236.js.map",
+    "static/js/2.8576d7b8.chunk.js": "/reactjs-app/static/js/2.8576d7b8.chunk.js",
+    "static/js/2.8576d7b8.chunk.js.map": "/reactjs-app/static/js/2.8576d7b8.chunk.js.map",
+    "static/js/3.4ec8f9ab.chunk.js": "/reactjs-app/static/js/3.4ec8f9ab.chunk.js",
+    "static/js/3.4ec8f9ab.chunk.js.map": "/reactjs-app/static/js/3.4ec8f9ab.chunk.js.map",
+    "index.html": "/reactjs-app/index.html",
+    "static/css/main.4776fbb0.chunk.css.map": "/reactjs-app/static/css/main.4776fbb0.chunk.css.map",
+    "static/js/2.8576d7b8.chunk.js.LICENSE.txt": "/reactjs-app/static/js/2.8576d7b8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/reactjs-app/static/media/pexels-breakingpic-3243.c7442e73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a2ea236.js",
+    "static/js/2.8576d7b8.chunk.js",
+    "static/css/main.4776fbb0.chunk.css",
+    "static/js/main.b0bb847e.chunk.js"
+  ]
+}
